@@ -16,6 +16,7 @@ Luckily there is a Kernal routine to do exactly that (line 5 sets up the "pointe
 
 Another minor difference: screen coordinates for text are 1 to 40 and 1 to 25 in AppleSoft BASIC, but 0 to 39 and 0 to 24 on the Commodore.
 
+## Game Controls
 Controls had to be remapped due to the different keyboard layout:
 - Move North/forward: cursor up OR 'O'
 - Move East/turn right: cursor right OR 'L'
@@ -26,3 +27,10 @@ Controls had to be remapped due to the different keyboard layout:
 - Enter: 'X'
 - Pause: 'P'
 - Pass: space bar OR escape
+
+## Version History
+- v1.0
+- - Initial release
+- v1.1
+- - Fixed a bug that prevented some doors being drawn in dungeons.
+- - Fixed a bug that didn't show the dialogue in Lord British's castle correctly.
