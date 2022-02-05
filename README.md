@@ -30,7 +30,7 @@ Controls had to be remapped due to the different keyboard layout:
 
 ## Version History
 - v1.0
-- - Initial release
+  - Initial release
 - v1.1
-- - Fixed a bug that prevented some doors being drawn in dungeons.
-- - Fixed a bug that didn't show the dialogue in Lord British's castle correctly.
+  - Fixed a bug that prevented some doors being drawn in dungeons.
+  - Fixed a bug that didn't show the dialogue in Lord British's castle correctly.
