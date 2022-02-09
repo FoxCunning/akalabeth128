@@ -13,6 +13,7 @@ To prevent that, a dummy window is defined before clearing the bitmap screen (li
 
 MS BASIC also does not have a command to move the cursor to an arbitrary position that corrisponds to the VTAB()/HTAB() commands of AppleSoft BASIC.
 Luckily there is a Kernal routine to do exactly that (line 5 sets up the "pointer").
+BASIC v7.0 also has the CHAR command, which can be used with an empty string to the same effect, but that would be slightly slower.
 
 Another minor difference: screen coordinates for text are 1 to 40 and 1 to 25 in AppleSoft BASIC, but 0 to 39 and 0 to 24 on the Commodore.
 
